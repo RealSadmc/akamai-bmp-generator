@@ -13,8 +13,6 @@ The Akamai BMP Generator is a fully reversed implementation of Akamai's BMP (Bot
 - ✅ fast
 - ✅ Made in goLang
 - ✅ Support for multiple Akamai BMP versions:
-    - **4.0.2**
-    - **3.3.9**
     - **3.3.4**
     - **3.3.1**
     - **3.3.0**
